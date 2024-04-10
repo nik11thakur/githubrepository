@@ -20,7 +20,7 @@ public class ActionVsActionsClass {
 		steps.perform();
 		
 		driver.findElement(By.xpath("/html/body/ul/li[3]")).click();
-		Alert al=new Alert(driver);
-		al.accept();
+		//Alert al=new Alert(driver);
+		//al.accept();
 }
 }

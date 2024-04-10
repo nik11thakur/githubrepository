@@ -13,7 +13,7 @@ public class RightClick {
 		
 		WebElement button=driver.findElement(By.xpath("/html/body/div/section/div/div/div/p/span"));
 		Actions act=new Actions(driver);
-		act.contextClick(button).build().perform()
+		//act.contextClick(button).build().perform()
 		
 		
 		

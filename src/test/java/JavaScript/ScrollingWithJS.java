@@ -12,7 +12,7 @@ public static void main(String[] args) {
 	js.executeScript("window.scrollBy(0,3000)", " ");
 	System.out.println(js.executeScript("retur window.page.YOffset)", " "));
 	
-	js.executeScript(", args)
+//	js.executeScript(", args)
 	
 	
 	

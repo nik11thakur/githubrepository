@@ -9,7 +9,7 @@ public static void main(String[] args) {
 	driver.get("https://www.dummyticket.com/dummy-ticket-for-visa-application/");
 	driver.findElement(By.id("travname")).sendKeys("Jimmy");
 	driver.findElement(By.id("travlastname")).sendKeys("Veer");
-	dr
+	
 	
 	
 	

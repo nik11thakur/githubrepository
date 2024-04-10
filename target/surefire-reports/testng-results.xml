@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-04-10T10:12:04 IST" name="Suite" finished-at="2024-04-10T10:12:25 IST" duration-ms="20873">
+  <suite started-at="2024-04-10T10:36:09 IST" name="Suite" finished-at="2024-04-10T10:36:47 IST" duration-ms="37423">
     <groups>
     </groups>
-    <test started-at="2024-04-10T10:12:04 IST" name="Test" finished-at="2024-04-10T10:12:25 IST" duration-ms="20873">
+    <test started-at="2024-04-10T10:36:09 IST" name="Test" finished-at="2024-04-10T10:36:47 IST" duration-ms="37423">
       <class name="Day12.SecondTest">
-        <test-method signature="Openapp()[pri:1, instance:Day12.SecondTest@20deea7f]" started-at="2024-04-10T10:12:04 IST" name="Openapp" finished-at="2024-04-10T10:12:22 IST" duration-ms="18061" status="PASS">
+        <test-method signature="Openapp()[pri:1, instance:Day12.SecondTest@20deea7f]" started-at="2024-04-10T10:36:09 IST" name="Openapp" finished-at="2024-04-10T10:36:46 IST" duration-ms="36368" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Openapp -->
-        <test-method signature="Login()[pri:2, instance:Day12.SecondTest@20deea7f]" started-at="2024-04-10T10:12:22 IST" name="Login" finished-at="2024-04-10T10:12:24 IST" duration-ms="2612" status="PASS">
+        <test-method signature="Login()[pri:2, instance:Day12.SecondTest@20deea7f]" started-at="2024-04-10T10:36:46 IST" name="Login" finished-at="2024-04-10T10:36:47 IST" duration-ms="887" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method signature="closeapp()[pri:3, instance:Day12.SecondTest@20deea7f]" started-at="2024-04-10T10:12:24 IST" name="closeapp" finished-at="2024-04-10T10:12:25 IST" duration-ms="146" status="PASS">
+        <test-method signature="closeapp()[pri:3, instance:Day12.SecondTest@20deea7f]" started-at="2024-04-10T10:36:47 IST" name="closeapp" finished-at="2024-04-10T10:36:47 IST" duration-ms="98" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeapp -->

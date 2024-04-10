@@ -16,7 +16,7 @@ public class Fluentwait {
     
     mywait.withTimeout(Duration.ofSeconds(30L));
     mywait.pollingEvery(Duration.ofSeconds(5L));
-    mywait.ignoring(NoSuchElementEception.class);
+   // mywait.ignoring(NoSuchElementEception.class);
     driver.get("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
 	mywait.until(ExpectedConditions.visibilityOfElementLocated(By.name("username")));
 	driver.findElement(By.xpath("//input[@placeholder='Username']")).sendKeys("admin");

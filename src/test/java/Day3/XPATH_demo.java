@@ -9,7 +9,7 @@ public static void main(String[] args) {
 	ChromeDriver driver=new ChromeDriver();
 	driver.get("https://demo.nopcommerce.com/");
 	//creating own Xpath
-	WebElement text=driver.findElement(By.xpath("//*[@href=\"/apple-macbook-pro-13-inch\"]"));)
+	WebElement text=driver.findElement(By.xpath("//*[@href=\"/apple-macbook-pro-13-inch\"]"));
 	System.out.println(text);
 	
 	//absolute

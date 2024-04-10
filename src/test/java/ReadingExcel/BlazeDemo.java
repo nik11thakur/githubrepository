@@ -35,7 +35,7 @@ public static void main(String[] args) {
 	int col = driver.findElements(By.xpath("/html/body/div[2]/table/thead/tr/th")).size();
 	System.out.println("Number of columns:" + col);
 	
-	String 
+	//String 
 	for(int a=1;a<row;a++) {
 		String price=driver.findElement(By.xpath("/html/body/div[2]/table//tr["+a+"]//td[6]")).getText();
 	    System.out.println(price);
